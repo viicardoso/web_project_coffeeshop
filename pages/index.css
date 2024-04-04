@@ -55,17 +55,13 @@
   align-items: center;
 }
 
-.header__text {
-  margin: 183px 0 28px 80px;
-}
-
 .header__title {
   max-width: 709px;
   font-size: 58px;
   line-height: 72px;
   font-weight: 500;
   letter-spacing: -1px;
-  margin: 0 0 28px;
+  margin: 183px 0 28px 80px;
 }
 
 .header__span-accent {
@@ -81,7 +77,7 @@
   max-width: 683px;
   font-size: 20px;
   line-height: 30px;
-  margin: 0;
+  margin: 0 0 0 80px;
 }
 
 .header__image {
