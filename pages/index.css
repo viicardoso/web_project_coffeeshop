@@ -101,14 +101,13 @@
   color: #838383;
   z-index: 1;
   align-items: flex-end;
-}
-
-.header__list {
   padding: 0;
 }
 
-.header__list-item {
-  list-style-type: none;
+.header__paragraph {
+  font-weight: 500;
+  color: #838383;
+  margin: 0;
 }
 
 .recipes {
