@@ -15,3 +15,7 @@ Foi criado pela primeira vez um formulário e também através do "iframe", foi 
 ## Melhorias do projeto
 
 Criação de um menu com imagens do local e um cardápio para os clientes que quiserem já ter uma noção do que pedir.
+
+## Observações
+
+A verificação automatica da plataforma não aceita "&#169 ou &copy" por isso usei o simbolo copiado.
